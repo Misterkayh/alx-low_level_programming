@@ -41,7 +41,7 @@ int main(void)
 		i++;
 	}
 
-	putchar(6);
+	putchar(5);
 
 	return (0);
 }
